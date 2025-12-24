@@ -43,5 +43,5 @@ A fun and colorful bubble-popping game built with Pygame! Test your reflexes and
 ### Steps
 1. Clone the repository:
 ```bash
-git clone https://github.com/RaghuveerSingh2005/bubble-pop-adventure.git
+git clone https://github.com/RaghuveerSingh05/bubble-pop-adventure.git
 cd bubble-pop-adventure
